@@ -2,6 +2,8 @@ title: Kavosh Asadi
 logo: /assets/img/hawaii.JPG
 description:
 show_downloads: false
-github.is_user_page: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+github:
+  is_project_page: false
