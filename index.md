@@ -4,7 +4,7 @@ layout: default
 
 [Home](./index.html)|[About me](./another-page.html)|[Papers](./another-page.html)|[Other Interests](./other.html)
 
-Welcome to my homepage! 
+Welcome to my homepage!
 
 I am an AI scientist whose career goal is to understand computational principles underlying intelligence. More specifically, I study agents that interact with a sequential environment to improve their behavior through trial and error. The best formulation I know of that enables us to study this problem is called reinforcement learning setting. 
 
