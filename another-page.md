@@ -20,7 +20,7 @@ Below is a distillation of my professional journey. You can also find my resume 
 
 
 ## 2015-2020: PhD Student at Brown University (with 2 Internships at MSR)
- While at Brown, I had the pleasure to study fundamentals of RL with one of the most elite RL intellectuals, [Michael Littman](https://www.littmania.com). While working with Michael, I studied the importance of [smoothness in RL ingredients](https://cs.brown.edu/people/kasadiat/pdf/thesis_proposal.pdf), such as in softmax operators, transition models, and value-function architectures.
+ While at Brown, I had the pleasure to study fundamentals of RL with one of the most elite RL intellectuals, [Michael Littman](https://www.littmania.com). While working with Michael, I studied the importance of [smoothness in RL ingredients](https://repository.library.brown.edu/studio/item/bdr:j9ma8pcq/), such as in softmax operators, transition models, and value-function architectures.
 
  As a PhD students I also did 2 internships at MSR where I primarily worked with [Jason Williams](https://sites.google.com/view/jasondwilliams/home) who is a pioneer in dialog systems. Together with Jason, we mainly explored the application of RL to dialog agents and language models.
 
