@@ -26,10 +26,10 @@ Below is a distillation of my professional journey. You can also find my resume 
 
 ---
 
-## 2013-2015: Master's student at the University of Alberta
+## 2013-2015: Master's Student at the University of Alberta
 I learned the fundamentals of RL with function approximation under the founder of modern RL, [Rich Sutton](http://incompleteideas.net). I also worked closely with Rich's then post-doc [Joseph Modayil](http://josephmodayil.com). My work was primarily focused on usefully combining model-based and model-free RL. Together with Rich and Joseph, we proposed the [Cascade Architecture](http://www.incompleteideas.net/papers/Asadi2015.pdf).
 <hr>
 ---
 
-## 2008-2013: Undergraduate student at the University of Tehran
+## 2008-2013: Undergraduate Student at the University of Tehran
 I learned the basics of computer science and quickly developed a potent interest in AI. At the time learning with supervision somehow felt like cheating to me (because I thought too much burden is put on human expert to provide supervision). In sharp contrast the RL framework felt very natural to me. This led to my studying the [RL book](http://incompleteideas.net/book/RLbook2020.pdf) as a sophomere. Having finished the book, I wrote to Rich asking him to take me as his student and the rest is history! I also somehow made it into the [Errata and Notes](http://incompleteideas.net/book/first/errata.html) of the 1st edition of the RL book. 
