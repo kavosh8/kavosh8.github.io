@@ -4,26 +4,11 @@ layout: default
 
 [Home](./index.html)|[About me](./another-page.html)|[Papers](./another-page.html)|[Other Interests](./other.html)
 
-Welcome to my homepage!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=-2qyBJEAAAAJ&hl=en&oi=ao">
-  <img src="/assets/img/gs.png" alt="Google Scholar Favicon" width="32" height="32">
-</a>
-<a href="https://www.linkedin.com/in/kavosh-asadi-029a1780/">
-  <img src="/assets/img/linkedin.png" alt="LinkedIn Favicon" width="32" height="32">
-</a>
-<a href="https://twitter.com/AsadiKavosh">
-  <img src="/assets/img/x.png" alt="X Favicon" width="32" height="32">
-</a>
-<a href="https://dblp.org/pid/192/1404.html">
-  <img src="/assets/img/dblp.png" alt="DBLP Favicon" width="32" height="32">
-</a>
-<a href="./assets/pdfs/My_CV.pdf">
-  <img src="/assets/img/resume.png" alt="DBLP Favicon" width="32" height="32">
-</a>
+Welcome to my homepage!
 
-I am an AI scientist whose career goal is to understand computational principles underlying intelligence. More specifically, I study agents that interact with a sequential environment to improve their behavior through trial and error. This agent-environment interaction is best formulated in the reinforcement learning problem. 
+I am an AI scientist whose career goal is to understand computational principles underlying intelligence. More specifically, I study agents that interact with a sequential environment to improve their behavior through trial and error. This agent-environment interaction is referred to as the reinforcement learning problem. 
 
-I have a PhD and an extensive background in the theoretical and empirical foundations of reinforcement learning. I have published more than a dozen papers at top-tier AI conferences such as Neurips, ICML, AAAI, and ACL. On the academic side, I have recently spent a lot of effort in understanding optimization in reinforcement learning. On the aplication side, I am quite interested in the developing assistive AI agents that interact with humans and learn from feedback to provide better service. My aspiration is to make AI agents that co-exist with and help us live our best lives.
+I have a PhD and an extensive background in the theoretical and empirical foundations of reinforcement learning. I have published more than a dozen papers at top-tier AI conferences such as Neurips, ICML, AAAI, and ACL. On the academic side, I have become super interested in understanding optimization in the context of learning the value function in reinforcement learning. On the aplication side, I am quite interested in the developing assistive AI agents that interact with humans and learn from feedback to provide better service. My aspiration is to make AI agents that co-exist with and help us live our best lives.
 
 The best way to reach me for career-related stuff is by shooting me an email at my first name @alumni.brown.edu. I am genuinely interested in forming meaningful connections with fellow AI scientists, engineers, students, and enthusiasts, so feel free to reach out even if we never met in person.
 
@@ -48,3 +33,19 @@ The best way to reach me for career-related stuff is by shooting me an email at 
 *   2015-2020: PhD Student at Brown University <br> (Advisor: Michael Littman)
 *   2013-2015: Master's Student at the University of Alberta <br> (Advisor: Rich Sutton)
 *   2008-2013: Undergraduate student at the University of Tehran
+
+<a href="https://scholar.google.com/citations?user=-2qyBJEAAAAJ&hl=en&oi=ao">
+  <img src="/assets/img/gs.png" alt="Google Scholar Favicon" width="32" height="32">
+</a>
+<a href="https://www.linkedin.com/in/kavosh-asadi-029a1780/">
+  <img src="/assets/img/linkedin.png" alt="LinkedIn Favicon" width="32" height="32">
+</a>
+<a href="https://twitter.com/AsadiKavosh">
+  <img src="/assets/img/x.png" alt="X Favicon" width="32" height="32">
+</a>
+<a href="https://dblp.org/pid/192/1404.html">
+  <img src="/assets/img/dblp.png" alt="DBLP Favicon" width="32" height="32">
+</a>
+<a href="./assets/pdfs/My_CV.pdf">
+  <img src="/assets/img/resume.png" alt="DBLP Favicon" width="32" height="32">
+</a>
