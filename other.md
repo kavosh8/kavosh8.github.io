@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Home](./index.html)|[About me](./another-page.html)|[Papers](./another-page.html)|[Other Interests](./other.html)
+[Home](./index.html)|[About me](./another-page.html)|[Other Interests](./other.html)
 
 *	I was a professional gamer (the game was called FIFA and is now called EAFC and is made by Electronic Arts), and won various domestic events when I was younger. Unfortunately, my reaction time naturally deteriorated over time and especially when I hit my late 20s, but I still play a lot of FIFA for fun. 
 *	I love watching the English Premier League Soccer. It is quite common for me to wake up at 5AM over the weekend to catch top matches of the league.

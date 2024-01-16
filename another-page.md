@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-[Home](./index.html)|[About me](./another-page.html)|[Papers](./another-page.html)|[Other Interests](./other.html)
+[Home](./index.html)|[About me](./another-page.html)|[Other Interests](./other.html)
 
 Below is a distillation of my professional journey. You can also find my resume [here](./assets/pdfs/My_CV.pdf).
 

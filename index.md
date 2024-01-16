@@ -2,17 +2,18 @@
 layout: default
 ---
 
-[Home](./index.html)|[About me](./another-page.html)|[Papers](./another-page.html)|[Other Interests](./other.html)
+[Home](./index.html)|[About me](./another-page.html)|[Other Interests](./other.html)
 
 Welcome to my homepage!
 
 I am an AI scientist whose career goal is to understand computational principles underlying intelligence. More specifically, I study agents that interact with a sequential environment to improve their behavior through trial and error. This agent-environment interaction is referred to as the reinforcement learning problem. 
 
-I have a PhD and an extensive background in the theoretical and empirical foundations of reinforcement learning. I have published more than a dozen papers at top-tier AI conferences such as Neurips, ICML, AAAI, and ACL. On the academic side, I have become super interested in understanding optimization in the context of learning the value function in reinforcement learning. On the aplication side, I am quite interested in the developing assistive AI agents that interact with humans and learn from feedback to provide better service. My aspiration is to make AI agents that co-exist with and help us live our best lives.
+I have a PhD and an extensive background in the theoretical and empirical foundations of reinforcement learning. I have published more than a dozen papers at top-tier AI conferences such as Neurips, ICML, ICLR, AAAI, and ACL. On the academic side, I am really interested in understanding the optimization problem that arises in the context of learning the value function. On the aplication side, I am quite interested in the developing assistive AI agents that interact with humans and learn from feedback to provide better service. My aspiration is to make AI agents that co-exist with and help us live our best lives.
 
-The best way to reach me for career-related stuff is by shooting me an email at my first name @alumni.brown.edu. I am genuinely interested in forming meaningful connections with fellow AI scientists, engineers, students, and enthusiasts, so feel free to reach out even if we never met in person.
+The best way to reach me for career-related stuff is by shooting me an email at my first name @alumni.brown.edu. I am genuinely interested in forming meaningful connections with fellow AI scientists, engineers, students, etc, so feel free to reach out even if we never met in person.
 
 ## News
+* 	Our paper on foundation models for continual learning was accepted at ICLR 2024.
 *   Will present two papers at Neurips 2023. (See you again in New Orleans!)
 *   Gave a talk at Seattle Mind and Machines meetup on UW's beautiful campus.
 *   Gave a talk at Amazon's RL reading group.
