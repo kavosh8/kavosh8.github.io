@@ -13,6 +13,7 @@ I have a PhD and an extensive background in the theoretical and empirical founda
 The best way to reach me for career-related stuff is by shooting me an email at my first name @alumni.brown.edu. I am genuinely interested in forming meaningful connections with fellow AI scientists, engineers, students, etc, so feel free to reach out even if we never met in person.
 
 ## News
+*   Our paper on learning the target network in function space got into ICML 2024. I am super excited about this one, so please stay tuned!
 * 	Our paper on foundation models for continual learning was accepted at ICLR 2024.
 *   Will present two papers at Neurips 2023. (See you again in New Orleans!)
 *   Gave a talk at Seattle Mind and Machines meetup on UW's beautiful campus.
