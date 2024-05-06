@@ -14,7 +14,7 @@ The best way to reach me for career-related stuff is by shooting me an email at 
 
 ## News
 *   Our paper on learning the target network in function space got into ICML 2024. I am super excited about this one, so please stay tuned!
-*   I gave my volunatry resignation from my role at Amazon. I will be in the job market after taking a 3-month break!
+*   I volunatrily resigned from my role at Amazon. I will be in the job market after taking a 3-month break!
 * 	Our paper on foundation models for continual learning was accepted at ICLR 2024.
 *   Will present two papers at Neurips 2023. (See you again in New Orleans!)
 *   Gave a talk at Seattle Mind and Machines meetup on UW's beautiful campus.
