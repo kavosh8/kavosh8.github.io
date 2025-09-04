@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./index.html)|[About me](./another-page.html)|[Other Interests](./other.html)
+[home](./index.html)|[about me](./another-page.html)|[other interests](./other.html)
 
 Welcome to my homepage!
 
