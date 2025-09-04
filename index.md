@@ -4,7 +4,7 @@ layout: default
 
 [home](./index.html)|[about me](./another-page.html)|[other interests](./other.html)
 
-Welcome to my homepage!
+welcome to my homepage!
 
 I am an AI scientist whose career goal is to understand computational principles underlying intelligence. More specifically, I study agents that interact with a sequential environment to improve their behavior through trial and error. This agent-environment interaction is referred to as the reinforcement learning problem.
 
